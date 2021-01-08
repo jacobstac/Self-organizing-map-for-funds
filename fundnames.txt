@@ -1,3 +1,4 @@
+' '
 'Öhman Global Growth'
 'Swedbank Robur Ny Teknik A'
 'Handelsbanken Hållbar Energi A1 SEK'
